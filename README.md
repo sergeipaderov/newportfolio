@@ -1,4 +1,4 @@
-# Gulp´s build by Sergei Paderov (version 4.0.) 
+# Gulp´s build (version 4.0.)
 
 Stack:
 
