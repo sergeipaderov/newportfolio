@@ -1,0 +1,21 @@
+//colors
+$white : #efeee9;
+$beige: #eeebdf;
+$main-font-color : #373e42;
+
+//layout setups
+@import "common/_normalize";
+@import "common/_setup";
+@import "common/_fonts";
+
+//mixins
+@import "helpers/mixins";
+
+//blocks
+@import "blocks/about";
+@import "blocks/down-arrow";
+@import "blocks/hero";
+@import "blocks/section-title";
+@import "blocks/titles";
+@import "blocks/triangle";
+@import "blocks/user";
